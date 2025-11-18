@@ -1,0 +1,4 @@
+a = int(input("Enter 1st number: "))
+b = int(input("Enter 2st number: "))
+
+print("average of these two nos is :", (a+b)/2)
